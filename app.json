@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "點餐平台暨聊天室團購系統",
+    "slug": "group-order-chat-demo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "grouporderdemo",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#FAF7F0"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FAF7F0"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
